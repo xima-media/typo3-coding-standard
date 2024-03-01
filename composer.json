@@ -1,0 +1,18 @@
+{
+	"authors": [
+		{
+			"name": "Maik Schneider",
+			"email": "maik.schneider@xima.de"
+		}
+	],
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	},
+	"description": "Collection of tool and config files",
+	"name": "xima/typo3-coding-standard",
+	"require": {
+		"slevomat/coding-standard": "*"
+	}
+}
